@@ -8,8 +8,9 @@ import { Document, Page, pdfjs } from "react-pdf";
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
-const resumeLink =
-  "https://github.com/devanshi-code/Portfolio-1/master/src/Assets/DEVANSHIMISHRA.pdf";
+// const resumeLink =
+//   "https://github.com/devanshi-code/Portfolio-1/master/src/Assets/DEVANSHIMISHRA.pdf";
+<a id="raw-url" href="https://raw.githubusercontent.com/devanshi-code/Portfolio-1/master/src/Assets/DEVANSHIMISHRA.pdf">Download FILE</a>
 
 
 function ResumeNew() {
