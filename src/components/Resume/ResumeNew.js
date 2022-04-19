@@ -9,7 +9,7 @@ import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const resumeLink =
-  "https://raw.githubusercontent.com/devanshi-code/portfolio/master/src/Assets/DEVANSHIMISHRA.pdf";
+  "https://github.com/devanshi-code/Portfolio-1/master/src/Assets/DEVANSHIMISHRA.pdf";
 
 
 function ResumeNew() {
